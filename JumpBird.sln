@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EE45FF7D-BA42-A6BC-E76B-894890AD57BC}") = "JumpBird", "Assembly-CSharp.csproj", "{E23F8D67-DCF9-A008-0B26-94415094016B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E23F8D67-DCF9-A008-0B26-94415094016B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E23F8D67-DCF9-A008-0B26-94415094016B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E23F8D67-DCF9-A008-0B26-94415094016B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E23F8D67-DCF9-A008-0B26-94415094016B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
